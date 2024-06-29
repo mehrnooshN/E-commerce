@@ -1,0 +1,20 @@
+.header-search form {
+    height: 40px;
+ 
+}
+.header-search form input{
+    height: 100%;
+    border-radius: 40px 0px 0px 40px;
+    border: none;
+ 
+    padding: 0px 8px;
+}
+.header-search form .search-btn {
+    height: 100%;
+    width: 100px;
+    background: #D10024;
+    color: #FFF;
+    font-weight: 700;
+    border: none;
+    border-radius: 0px 40px 40px 0px;
+  }

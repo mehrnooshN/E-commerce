@@ -1,0 +1,16 @@
+.header-cart{
+    position: relative;
+    display: inline-block;
+ 
+}
+.header-cart .quantity{
+    position:absolute;
+    top:-10px;
+    right:-10px;
+
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    color: #FFF;
+    background-color: #D10024;
+}
