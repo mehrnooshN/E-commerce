@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.83660437.css",
+    "main.js": "/E-commerce/static/js/main.d5153b60.js",
+    "static/js/952.744e955b.chunk.js": "/E-commerce/static/js/952.744e955b.chunk.js",
+    "static/media/RobotoFlex-Regular.ttf": "/E-commerce/static/media/RobotoFlex-Regular.34b447cc3641782c240a.ttf",
+    "index.html": "/E-commerce/index.html",
+    "main.83660437.css.map": "/E-commerce/static/css/main.83660437.css.map",
+    "main.d5153b60.js.map": "/E-commerce/static/js/main.d5153b60.js.map",
+    "952.744e955b.chunk.js.map": "/E-commerce/static/js/952.744e955b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83660437.css",
+    "static/js/main.d5153b60.js"
+  ]
+}
